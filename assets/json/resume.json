@@ -1,200 +1,542 @@
 {
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Haleigh Schwartz",
+    "label": "Data Scientist | Healthcare Analyst | Runner",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "schwartzh2017@gmail.com",
+    "phone": "",
+    "url": "https://www.linkedin.com/in/haleigh-schwartz/",
+    "summary": "Passionate about caring holistically for the underserved, working towards more sustainable healthcare, and learning endlessly to answer some of medicine's most pressing questions.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
       "countryCode": "US",
-      "region": "California"
+      "address": "United States"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "haleigh-schwartz",
+        "url": "https://www.linkedin.com/in/haleigh-schwartz/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Main Street Family Medicine, PLLC",
+      "position": "Office Manager",
+      "startDate": "2024-02-28",
+      "endDate": "",
+      "highlights": [],
+      "summary": "At our small clinic, we all wear many hats. As the office manager, I extract and analyze our healthcare and company data, optimize processes for our staff, continually keep up to date with best practices in medicine and business, manage our website, and solve the many, unique problems that present themselves each day.",
+      "url": "https://www.mainstreetfamilymed.com/",
+      "location": "Vancouver, Washington"
+    },
+    {
+      "name": "Main Street Family Medicine, PLLC",
+      "position": "Administrative & Medical Assistant",
+      "startDate": "2022-12-31",
+      "endDate": "2024-03-31",
+      "highlights": [],
+      "summary": "As an Administrative Assistant, my work ranges from routine tasks such as billing and payroll to more creative and innovative projects like creating efficient processes for the staff, managing the website, and discovering various business solutions with data analysis and visualization. \n\nIn my MA role, I assist with phlebotomy, in-office procedures, scheduling, navigating patients through the maze that is our complex healthcare system, and other miscellaneous needs around the office.",
+      "url": "https://www.mainstreetfamilymed.com/",
+      "location": "Vancouver, Washington"
+    },
+    {
+      "name": "Oregon Health & Science University",
+      "position": "Research Assistant 2",
+      "startDate": "2021-06-30",
+      "endDate": "2022-12-31",
+      "highlights": [],
+      "summary": "I conducted experiments, analyzed my experimental data, and designed figures for two upcoming publications.",
+      "url": "https://www.linkedin.com/school/ohsu/",
+      "location": "Portland, Oregon"
+    },
+    {
+      "name": "EvergreenHealth",
+      "position": "Diagnostic Imaging Technician Aid",
+      "startDate": "2020-10-31",
+      "endDate": "2021-06-30",
+      "highlights": [],
+      "summary": "I aided the CT techs in the Emergency Department by releasing orders, checking patients' labs to ensure their safety during the scan, going over consent forms with patients, answering phone calls, and restocking supplies.",
+      "url": "https://www.linkedin.com/company/evergreenhealth/",
+      "location": "Kirkland, Washington"
+    },
+    {
+      "name": "University of Washington",
+      "position": "Writer",
+      "startDate": "2019-08-31",
+      "endDate": "2020-04-30",
+      "highlights": [],
+      "summary": "Through my involvement in the University of Washington’s (UW) Neurological Surgery Summer Student Program, I was asked to write for Grey Matters, an UW undergraduate neuroscience journal. I researched and wrote an article on the neurological basis of the phenomenon of giftedness, which was published in the spring of 2020.",
+      "url": "https://www.linkedin.com/school/university-of-washington/",
+      "location": "Seattle, Washington"
+    },
+    {
+      "name": "University of Washington",
+      "position": "Summer Research Intern",
+      "startDate": "2019-06-30",
+      "endDate": "2019-08-31",
+      "highlights": [],
+      "summary": "I completed neuroscience research at the Allen Institute for Brain Science and contributed to furthering our understanding of the basal ganglia. I observed various neurological surgeries and went on rounds with the Neurosurgery Department at Harborview Medical Center.",
+      "url": "https://www.linkedin.com/school/university-of-washington/",
+      "location": "Seattle, Washington"
+    },
+    {
+      "name": "Northwest University",
+      "position": "College-Level Chemistry and Physics Tutor",
+      "startDate": "2018-09-30",
+      "endDate": "2019-05-31",
+      "highlights": [],
+      "summary": "I increased students' comprehension of college-level chemistry and physics courses and helped them develop skills necessary for furthering their learning.",
+      "url": "https://www.linkedin.com/school/northwest-university/",
+      "location": "Kirkland, Washington"
+    },
+    {
+      "name": "Northwest University",
+      "position": "Research Intern",
+      "startDate": "2018-08-31",
+      "endDate": "2019-05-31",
+      "highlights": [],
+      "summary": "I researched the Murine Herpesvirus’ effects on animal cells’ metabolism and ways to kill the virus without harming the cells for my professor, Dr. Tracie Delgado. From this work, \"Rewiring of the host cell metabolome and lipidome during lytic gammaherpesvirus infection is essential for infectious virus production\" by Clark & Delgado, 2023, was published.",
+      "url": "https://www.linkedin.com/school/northwest-university/",
+      "location": "Kirkland, Washington"
+    },
+    {
+      "name": "Logan Health",
+      "position": "Summer Intern",
+      "startDate": "2018-06-30",
+      "endDate": "2018-07-31",
+      "highlights": [],
+      "summary": "I completed a summer internship at KRH where I observed in many different departments ranging from the pathology lab to the NICU to interventional radiology.",
+      "url": "https://www.linkedin.com/company/logan-health/",
+      "location": "Kalispell, Montana"
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "American Red Cross",
+      "position": "Leaders Save Lives: Blood Drive Host",
+      "startDate": "2020-06-30",
+      "endDate": "2020-08-31",
+      "summary": "One summer, I assisted the American Red Cross by hosting drives, recruiting donors, and running the check-in desk at drives.",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/157239"
+    },
+    {
+      "organization": "MAKSPORTSMD",
+      "position": "Volunteer",
+      "startDate": "2019-01-31",
+      "endDate": "2019-05-31",
+      "summary": "For a semester, I volunteered at Dr. Bim Makinde's clinic, where I prepped rooms for patients and procedures, observed as he worked with patients, and helped with secretarial work. My work allowed Dr. Makinde to spend more time with patients, complete his practice more efficiently, and keep his business organized. I also helped his patients feel comfortable, welcome, and informed about any questions they had. Being apart of Dr. Makinde's private practice exposed me to the business side of medicine and, as a cross country and track runner for my college, taught me a lot about injury prevention and treatment options for athletes.",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/55743691"
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Willamette University",
+      "area": "Data Science",
+      "studyType": "Master's degree",
+      "startDate": "2023-08-31",
+      "endDate": "2024-08-31",
+      "score": "",
+      "courses": [
+        "Data Visualization",
+        "Data Science With R",
+        "Data Ethics, Privacy, & Humans",
+        "Applied Machine Learning",
+        "Fundamentals Data Engineering",
+        "Data Science Capstone Project",
+        "Survival Analysis",
+        "Adv. Machine Learning",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "institution": "Northwest University",
+      "area": "Biology, General",
+      "studyType": "Bachelor of Science - BS",
+      "startDate": "",
+      "endDate": "",
+      "score": "4.0",
+      "courses": [
+        "General Biology I and II with Labs",
+        "General Chemistry I and II with Labs",
+        "Biochemistry with Lab",
+        "Calculus I and II with Labs",
+        "Cell Biology with Lab",
+        "Anatomy and Physiology I and II with Labs",
+        "Cognitive Psychology",
+        "Bioethics",
+        "Abnormal Psychology",
+        "General Psychology"
+      ]
+    },
+    {
+      "institution": "UC San Diego Extended Studies",
+      "area": "Mathematics",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "4.0",
+      "courses": [
+        "Linear Algebra"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Academic All-Conference in Cross Country",
+      "date": "2020-12-31",
+      "awarder": "Cascade Collegiate Conference",
+      "summary": "I was honored by the Cascade Collegiate Conference for having above a 3.5 GPA while competing in cross country my senior year."
+    },
+    {
+      "title": "Honors Award",
+      "date": "2020-05-31",
+      "awarder": "Northwest University",
+      "summary": "I earned an honor's award for maintaining a 4.0 GPA my junior year."
+    },
+    {
+      "title": "Junior Academic Award",
+      "date": "2020-05-31",
+      "awarder": "Cascade Collegiate Conference",
+      "summary": "I was honored for having the highest GPA among my class while I was competing in cross country and track my junior year."
+    },
+    {
+      "title": "Academic All-Conference in Cross Country",
+      "date": "2019-12-31",
+      "awarder": "Cascade Collegiate Conference",
+      "summary": "I was honored by the Cascade Collegiate Conference for having above a 3.5 GPA while competing in cross country my junior year."
+    },
+    {
+      "title": "Academic All-Conference in Track and Field",
+      "date": "2019-05-31",
+      "awarder": "Cascade Collegiate Conference",
+      "summary": "I was honored for having above a 3.5 GPA while competing in track and field my sophomore year."
+    },
+    {
+      "title": "Honors Award",
+      "date": "2019-05-31",
+      "awarder": "Northwest University",
+      "summary": "I earned an honor's award for maintaining a 4.0 GPA my sophomore year."
+    },
+    {
+      "title": "Academic All-Conference in Cross Country",
+      "date": "2018-12-31",
+      "awarder": "Cascade Collegiate Conference",
+      "summary": "I was honored for having above a 3.5 GPA while competing in cross country my sophomore year."
+    },
+    {
+      "title": "Honors Award",
+      "date": "2018-05-31",
+      "awarder": "Northwest University",
+      "summary": "I earned an honor's award for maintaining a 4.0 GPA my freshman year."
+    },
+    {
+      "title": "PURE Scholar",
+      "date": "2018-04-30",
+      "awarder": "Dr. Tracie Delgado",
+      "summary": "I was accepted into Dr. Delgado's lab as a PURE (Pathway for Undergraduate Research Excellence)."
+    },
+    {
+      "title": "Presidential Scholar",
+      "date": "2017-03-31",
+      "awarder": "Northwest University",
+      "summary": "I won Northwest University's Presidential Scholarship Competition during my senior year of high school, which granted me a full-tuition scholarship for eight consecutive semesters at Northwest."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Certified Caregiver",
+      "issuer": "First Choice In-Home Care, Inc.",
+      "startDate": "2020-10-31"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Protecting Human Research Participants Online Trainin",
+      "issuer": "Protecting Human Research Participants (PHRP) Online Training, Inc.",
+      "endDate": "2021-10-31",
+      "startDate": "2020-10-31"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Scribe101",
+      "issuer": "ScribeAmerica",
+      "startDate": "2020-08-31"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Learn Enough Text Editor to be Dangerous ",
+      "issuer": "Learn Enough",
+      "startDate": "2022-09-30",
+      "url": "https://www.learnenough.com/certificates/schwartzh2017/text-editor-tutorial"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "Learn Enough Git to be Dangerous",
+      "issuer": "Learn Enough",
+      "startDate": "2022-10-31",
+      "url": "https://www.learnenough.com/certificates/schwartzh2017/git-tutorial"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Registered Medical Assistant (RMA)",
+      "issuer": "Washington State Department of Health",
+      "startDate": "2023-01-31"
+    },
+    {
+      "name": "Learn Enough HTML to be Dangerous",
+      "issuer": "Learn Enough",
+      "startDate": "2022-12-31",
+      "url": "https://www.learnenough.com/certificates/schwartzh2017/html-tutorial"
+    },
+    {
+      "name": "Medical Assistant Phlebotomist Certification",
+      "issuer": "Washington State Department of Health",
+      "startDate": "2023-02-28"
+    },
+    {
+      "name": "Learn Enough CSS & Layout to be Dangerous",
+      "issuer": "Learn Enough",
+      "startDate": "2023-03-31",
+      "url": "https://www.learnenough.com/certificates/schwartzh2017/css-and-layout-tutorial"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Rewiring of the host cell metabolome and lipidome during lytic gammaherpesvirus infection is essential for infectious virus production",
+      "publisher": "Journal of Virology",
+      "releaseDate": "2023-01-31",
+      "summary": "",
+      "url": "https://journals.asm.org/doi/10.1128/jvi.00506-23"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Great Minds Built Alike",
+      "publisher": "Grey Matters",
+      "releaseDate": "2020-04-03",
+      "summary": "",
+      "url": "https://greymattersjournal.org/great-minds-built-alike/"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Problem Solving",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Science",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Healthcare Analytics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Analytic Problem Solving",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Adobe Illustrator",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Visualization",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Maintaining Mice Colonies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cell Culturing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Immunohistochemistry",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Collaboration Solutions",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Administration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Patch Clamping",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Process Improvement",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Acute and Fixed Slicing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tail Vein Injections",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "R",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Retro-Orbital Injections",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scientific Writing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Perfusions",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Teaching",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "High Level Of Accuracy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bradford's Assays",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cranial Window Placement Surgery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bradford Assay",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Two-photon Microscopy (in vivo and in vitro)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Critical Thinking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scientific Research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Virus Titers",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Western and Southern Blots",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Organization Skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Intracerebroventricular Injections",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Collecting and Lysing Tissue Samples",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Western Blotting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cascading Style Sheets (CSS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Slice Culturing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Plaque Assays",
+      "level": "",
+      "keywords": []
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Native Speaker"
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
 }
