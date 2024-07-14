@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Can You Predict Love?
-description: Speed dating analysis for MSDS Adv. Machine Learning Data 505
+description: Speed dating analysis for MSDS Adv. Machine Learning (DATA-505)
 img: /assets/img/ml_fp.png
 redirect:
 importance: 1
