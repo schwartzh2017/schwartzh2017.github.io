@@ -10,7 +10,7 @@ category: school
 related_publications: false
 ---
 
-Nick Brooks & Haleigh Schwartz
+[Nick Brooks](https://nickbrooks-ds.github.io/) & Haleigh Schwartz
 
 April 24, 2024
 

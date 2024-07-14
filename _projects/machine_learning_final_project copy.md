@@ -9,7 +9,7 @@ category: school
 related_publications: false
 ---
 
-Christy Lawrence, Noelle Matthews, & Haleigh Schwartz
+[Christy Lawrence](https://cml-data.github.io/cml-anaylsis.github.io/), Noelle Matthews, & Haleigh Schwartz
 
 April 25, 2024
 
@@ -18,7 +18,7 @@ April 25, 2024
 Data from: [OpenML](https://www.openml.org/search?type=data&status=any&sort=runs&id=40536)
 
 
-My partners, Christy Lawrence, Noelle Matthews, and I worked together to analyze data from [OpenML](https://www.openml.org/search?type=data&status=any&sort=runs&id=40536) to determine what traits, if any, predict whether or not a couple will match after a speed dating round. We found the most important features in couples matching used preprocessors such as OneHotEncoder and StandardScaler, created ensemble models to predict which couples would match, and ran our data through unsupervised models like PCA and Kmeans to further refine our results. Please see our [code](https://github.com/schwartzh2017/Machine_learning_final_project) for more details. See below for a few sample images from our presentation.
+My partners, [Christy Lawrence](https://cml-data.github.io/cml-anaylsis.github.io/), Noelle Matthews, and I worked together to analyze data from [OpenML](https://www.openml.org/search?type=data&status=any&sort=runs&id=40536) to determine what traits, if any, predict whether or not a couple will match after a speed dating round. We found the most important features in couples matching used preprocessors such as OneHotEncoder and StandardScaler, created ensemble models to predict which couples would match, and ran our data through unsupervised models like PCA and Kmeans to further refine our results. Please see our [code](https://github.com/schwartzh2017/Machine_learning_final_project) for more details. See below for a few sample images from our presentation.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
