@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GitHub Repos Survivability 
-description: Analysis of survivability of GitHub repos for MSDS Survial Analysis (DATA-596)
+description: Analysis of survivability of GitHub repos for MSDS Survival Analysis (DATA-596)
 
 img: /assets/img/survival_analysis_final_project_km_curve.png
 redirect:
