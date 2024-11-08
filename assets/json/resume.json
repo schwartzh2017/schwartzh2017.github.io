@@ -6,8 +6,8 @@
     "image": "",
     "email": "schwartzh2017@gmail.com",
     "phone": "",
-    "url": "https://www.linkedin.com/in/haleigh-schwartz/",
-    "summary": "Passionate about caring holistically for the underserved, working towards more sustainable healthcare, and learning endlessly to answer some of medicine's most pressing questions.",
+    "url": "",
+    "summary": "Data scientist with a background in biology and healthcare, dedicated to advancing sustainable healthcare solutions. Skilled in applying critical thinking, creative problem solving, and data analysis to optimize healthcare operations and patient outcomes. Eager to leverage a strong foundation in statistical analysis, machine learning, and application development to make impactful contributions.",
     "location": {
       "countryCode": "US",
       "address": "United States"
@@ -22,14 +22,24 @@
   },
   "work": [
     {
+      "name": "New Heights Clinic, A Professional Non-Profit Corporation",
+      "position": "Data Analyst | Project Manager",
+      "startDate": "2024-04-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "As the clinic expands, I am leading several pivotal initiatives to enhance patient care and operational efficiency, including:<br>- Conducting in-depth patient data analysis to tailor services to community needs<br>- Implementing the clinic’s first Electronic Medical Record (transitioning from paper charts)<br>- Transforming the clinic model from a Free Clinic to a sliding-scale Direct Primary Care",
+      "url": "https://newheights.org/new-heights-clinic/",
+      "location": "Vancouver, WA"
+    },
+    {
       "name": "Main Street Family Medicine, PLLC",
-      "position": "Office Manager",
+      "position": "Data Analyst | Office Manager",
       "startDate": "2024-02-28",
       "endDate": "",
       "highlights": [],
-      "summary": "At our small clinic, we all wear many hats. As the office manager, I extract and analyze our healthcare and company data, optimize processes for our staff, continually keep up to date with best practices in medicine and business, manage our website, and solve the many, unique problems that present themselves each day.",
-      "url": "https://www.mainstreetfamilymed.com/",
-      "location": "Vancouver, Washington"
+      "summary": "In this role, I have spearheaded data-driven initiatives to enhance patient care and operational efficiency. Key projects include:<br>- Developing automated scripts to analyze healthcare and company financial data<br>- Building custom applications for our unique business model<br>- Managing our website<br>- Launching continuous training initiatives, fostering a growth-oriented team culture",
+      "url": "https://www.mainstreetfamilymed.com",
+      "location": "Vancouver, WA"
     },
     {
       "name": "Main Street Family Medicine, PLLC",
@@ -37,9 +47,9 @@
       "startDate": "2022-12-31",
       "endDate": "2024-03-31",
       "highlights": [],
-      "summary": "As an Administrative Assistant, my work ranges from routine tasks such as billing and payroll to more creative and innovative projects like creating efficient processes for the staff, managing the website, and discovering various business solutions with data analysis and visualization. \n\nIn my MA role, I assist with phlebotomy, in-office procedures, scheduling, navigating patients through the maze that is our complex healthcare system, and other miscellaneous needs around the office.",
-      "url": "https://www.mainstreetfamilymed.com/",
-      "location": "Vancouver, Washington"
+      "summary": "I started off at Main Street Family Medicine as a medical assistant, where I regularly:<br>- Worked as a phlebotomist<br>- Roomed patients and collected patient histories<br>- Assisted in procedures<br>- Initiated and completed various projects around the clinic to improve efficiency and workflow",
+      "url": "",
+      "location": "Vancouver, WA"
     },
     {
       "name": "Oregon Health & Science University",
@@ -47,9 +57,9 @@
       "startDate": "2021-06-30",
       "endDate": "2022-12-31",
       "highlights": [],
-      "summary": "I conducted experiments, analyzed my experimental data, and designed figures for two upcoming publications.",
+      "summary": "It was here I discovered my passion for data science. While developing developed many hard skills necessary for neuroscience bench work, I also:<br>- Learned MATLAB to analyze my research data<br>- Used Adobe Illustrator to create figures and display my research findings<br>- Used custom scripts to collect data from my two-photon microscopy experiments",
       "url": "https://www.linkedin.com/school/ohsu/",
-      "location": "Portland, Oregon"
+      "location": "Portland, OR"
     },
     {
       "name": "EvergreenHealth",
@@ -57,9 +67,9 @@
       "startDate": "2020-10-31",
       "endDate": "2021-06-30",
       "highlights": [],
-      "summary": "I aided the CT techs in the Emergency Department by releasing orders, checking patients' labs to ensure their safety during the scan, going over consent forms with patients, answering phone calls, and restocking supplies.",
+      "summary": "I assisted the Emergency Department CT techs in quicky and efficiently completing critical imaging for patients.",
       "url": "https://www.linkedin.com/company/evergreenhealth/",
-      "location": "Kirkland, Washington"
+      "location": "Kirkland, WA"
     },
     {
       "name": "University of Washington",
@@ -67,9 +77,9 @@
       "startDate": "2019-08-31",
       "endDate": "2020-04-30",
       "highlights": [],
-      "summary": "Through my involvement in the University of Washington’s (UW) Neurological Surgery Summer Student Program, I was asked to write for Grey Matters, an UW undergraduate neuroscience journal. I researched and wrote an article on the neurological basis of the phenomenon of giftedness, which was published in the spring of 2020.",
+      "summary": "I was asked to write for Grey Matters, an University of Washington undergraduate neuroscience journal. I researched and wrote an article on the neurological basis of the phenomenon of giftedness, which was published in the spring of 2020.",
       "url": "https://www.linkedin.com/school/university-of-washington/",
-      "location": "Seattle, Washington"
+      "location": "Seattle, WA"
     },
     {
       "name": "University of Washington",
@@ -77,9 +87,9 @@
       "startDate": "2019-06-30",
       "endDate": "2019-08-31",
       "highlights": [],
-      "summary": "I completed neuroscience research at the Allen Institute for Brain Science and contributed to furthering our understanding of the basal ganglia. I observed various neurological surgeries and went on rounds with the Neurosurgery Department at Harborview Medical Center.",
+      "summary": "Through the University of Washington's Neurological Surgery Summer Student Program, I:<br>- Observed various brain and spine surgeries<br>- Went on rounds with the Neurosurgery Department at Harborview<br>- Completed research at the Allen Institute for Brain Science",
       "url": "https://www.linkedin.com/school/university-of-washington/",
-      "location": "Seattle, Washington"
+      "location": "Seattle, WA"
     },
     {
       "name": "Northwest University",
@@ -87,9 +97,8 @@
       "startDate": "2018-09-30",
       "endDate": "2019-05-31",
       "highlights": [],
-      "summary": "I increased students' comprehension of college-level chemistry and physics courses and helped them develop skills necessary for furthering their learning.",
       "url": "https://www.linkedin.com/school/northwest-university/",
-      "location": "Kirkland, Washington"
+      "location": "Kirkland, WA"
     },
     {
       "name": "Northwest University",
@@ -97,9 +106,9 @@
       "startDate": "2018-08-31",
       "endDate": "2019-05-31",
       "highlights": [],
-      "summary": "I researched the Murine Herpesvirus’ effects on animal cells’ metabolism and ways to kill the virus without harming the cells for my professor, Dr. Tracie Delgado. From this work, \"Rewiring of the host cell metabolome and lipidome during lytic gammaherpesvirus infection is essential for infectious virus production\" by Clark & Delgado, 2023, was published.",
+      "summary": "In my first research role, I:<br>- Developed techniques and skills necessary for wet-lab research<br>- Wrote a manual for analyzing Western Blots<br>- Helped produce my first publication",
       "url": "https://www.linkedin.com/school/northwest-university/",
-      "location": "Kirkland, Washington"
+      "location": "Kirkland, WA"
     },
     {
       "name": "Logan Health",
@@ -109,7 +118,7 @@
       "highlights": [],
       "summary": "I completed a summer internship at KRH where I observed in many different departments ranging from the pathology lab to the NICU to interventional radiology.",
       "url": "https://www.linkedin.com/company/logan-health/",
-      "location": "Kalispell, Montana"
+      "location": "Kalispell, MT"
     }
   ],
   "volunteer": [
@@ -127,7 +136,7 @@
       "position": "Volunteer",
       "startDate": "2019-01-31",
       "endDate": "2019-05-31",
-      "summary": "For a semester, I volunteered at Dr. Bim Makinde's clinic, where I prepped rooms for patients and procedures, observed as he worked with patients, and helped with secretarial work. My work allowed Dr. Makinde to spend more time with patients, complete his practice more efficiently, and keep his business organized. I also helped his patients feel comfortable, welcome, and informed about any questions they had. Being apart of Dr. Makinde's private practice exposed me to the business side of medicine and, as a cross country and track runner for my college, taught me a lot about injury prevention and treatment options for athletes.",
+      "summary": "For a semester, I volunteered at Dr. Bim Makinde's clinic, where I prepped rooms for patients and procedures, observed as he worked with patients, and helped with secretarial work. Being apart of Dr. Makinde's private practice exposed me to the business side of medicine and, as a cross country and track runner for my college, taught me a lot about injury prevention and treatment options for athletes.",
       "highlights": [],
       "url": "https://www.linkedin.com/company/55743691"
     }
@@ -137,20 +146,10 @@
       "institution": "Willamette University",
       "area": "Data Science",
       "studyType": "Master's degree",
-      "startDate": "2023-08-31",
-      "endDate": "2024-08-31",
-      "score": "",
-      "courses": [
-        "Data Visualization",
-        "Data Science With R",
-        "Data Ethics, Privacy, & Humans",
-        "Applied Machine Learning",
-        "Fundamentals Data Engineering",
-        "Data Science Capstone Project",
-        "Survival Analysis",
-        "Adv. Machine Learning",
-        "Cloud Computing"
-      ]
+      "startDate": "",
+      "endDate": "",
+      "score": "4.0",
+      "courses": []
     },
     {
       "institution": "Northwest University",
@@ -159,18 +158,7 @@
       "startDate": "",
       "endDate": "",
       "score": "4.0",
-      "courses": [
-        "General Biology I and II with Labs",
-        "General Chemistry I and II with Labs",
-        "Biochemistry with Lab",
-        "Calculus I and II with Labs",
-        "Cell Biology with Lab",
-        "Anatomy and Physiology I and II with Labs",
-        "Cognitive Psychology",
-        "Bioethics",
-        "Abnormal Psychology",
-        "General Psychology"
-      ]
+      "courses": []
     },
     {
       "institution": "UC San Diego Extended Studies",
@@ -179,9 +167,7 @@
       "startDate": "",
       "endDate": "",
       "score": "4.0",
-      "courses": [
-        "Linear Algebra"
-      ]
+      "courses": []
     }
   ],
   "awards": [
@@ -316,27 +302,22 @@
   ],
   "skills": [
     {
-      "name": "Problem Solving",
+      "name": "Web Applications",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Leadership",
+      "name": "Node.js",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Data Science",
+      "name": "Natural Language Processing (NLP)",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Healthcare Analytics",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Analytic Problem Solving",
+      "name": "MapReduce",
       "level": "",
       "keywords": []
     },
@@ -356,6 +337,111 @@
       "keywords": []
     },
     {
+      "name": "Immunohistochemistry",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Collaboration Solutions",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Patch Clamping",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Process Improvement",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "R",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hadoop",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scientific Writing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Perfusions",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "High Level Of Accuracy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bradford's Assays",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bradford Assay",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scientific Research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Western and Southern Blots",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Problem Solving",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Organization Skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Collecting and Lysing Tissue Samples",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Analytic Problem Solving",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Healthcare Analytics",
+      "level": "",
+      "keywords": []
+    },
+    {
       "name": "Data Visualization",
       "level": "",
       "keywords": []
@@ -371,12 +457,7 @@
       "keywords": []
     },
     {
-      "name": "Immunohistochemistry",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Collaboration Solutions",
+      "name": "Data Science",
       "level": "",
       "keywords": []
     },
@@ -386,17 +467,7 @@
       "keywords": []
     },
     {
-      "name": "Patch Clamping",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "JavaScript",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Process Improvement",
       "level": "",
       "keywords": []
     },
@@ -411,22 +482,7 @@
       "keywords": []
     },
     {
-      "name": "R",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Retro-Orbital Injections",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Scientific Writing",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Perfusions",
       "level": "",
       "keywords": []
     },
@@ -436,22 +492,7 @@
       "keywords": []
     },
     {
-      "name": "High Level Of Accuracy",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Bradford's Assays",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Cranial Window Placement Surgery",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Bradford Assay",
       "level": "",
       "keywords": []
     },
@@ -466,22 +507,7 @@
       "keywords": []
     },
     {
-      "name": "Scientific Research",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Virus Titers",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Western and Southern Blots",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Organization Skills",
       "level": "",
       "keywords": []
     },
@@ -496,17 +522,7 @@
       "keywords": []
     },
     {
-      "name": "Collecting and Lysing Tissue Samples",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Western Blotting",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Data Analysis",
       "level": "",
       "keywords": []
     },
