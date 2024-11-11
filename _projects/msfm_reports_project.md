@@ -9,17 +9,11 @@ category: work
 related_publications: false
 ---
 
-While I cannot link back to my source code due to confidentiality reasons, I created an application to run monthly reports for [Main Street Family Medicine](https://www.mainstreetfamilymed.com/). I wrote scripts for easily extracting data from our Electronic Medical Record (EMR) and re-running pertinent analyses each month. Using tools such as Quarto, Netlify, Web-R, and Shiny, I merged these reports into a publishable (yet private) application for internal sharing. 
+In my role at [Main Street Family Medicine](https://www.mainstreetfamilymed.com/), I created an application to genearte monthly reports. I wrote scripts for easily extracting data from our Electronic Medical Record (EMR) and re-running pertinent analyses each month. Using tools such as RStudio and Shiny, I merged these reports into a publishable (yet password-protected) application for internal sharing. The report includes both patient and business data. Work with patient data is helpful to both our nurse practitioner students as they work on their doctorate projects and the rest of our staff as we continually seek to provide relevant and effective care for our patients. The rest of the data provides opportunites to make well-informed business decisions for the future of our clinic.
 
-The example below is an image of an interactive report I titled "PPD" ("Patients Per Day"). The user can toggle between provider, date, and what type of day that provider worked (full, part, or all types of days). The rendered plotly depicts not only the selected features but also the average between those same time points and types of days for all providers working. The user can hover over any specific point to see more details for all providers from that same day. 
+To demonstrate the application, I created a near-duplicate using randomly-generated data. I included most of the reports except for a few due to confidentiality reasons. I also removed the password feature. Most reports are self-explanatory, apart from the one I titled "PPD." This stands for "Patients per Provider per Day", which has helped us to keep track of how each provider's patient panels have grown so we can know when to on-board new providers and other staff.
 
-Other reports I run analyze our financial and patient data. Work with patient data is helpful to both our nurse practitioner students as they work on their doctorate projects and the rest of our staff as we continually seek to provide relevant and effective care for our patients. The business reports are especially important in making informed decisions for the future of our clinic as we are transitioning to cover a provider on maternity leave, actively gaining patients, and on-boarding new providers and staff.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ppd_ex.png" title="ppd" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+COMING SOON: Click [here]() to view the application and [here]() for the sample repo. 
 
 <!-- {% raw %}
 
