@@ -4,7 +4,7 @@ title: Patient Demographic Analysis
 description: Comparing patient demographics between Main Street Family Medicine, PLLC, and New Heights Clinic, A Professional Nonprofic Corporation.
 img: 
 redirect:
-importance: 1
+importance: 3
 category: work
 related_publications: false
 ---

@@ -4,7 +4,7 @@ title: Medication Inventory Application
 description: App for tracking medications, dispense history, and predicting which medications to buy for Main Street Family Medicine, PLLC.
 img: 
 redirect:
-importance: 1
+importance: 2
 category: work
 related_publications: false
 ---
