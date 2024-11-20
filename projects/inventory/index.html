@@ -85,7 +85,8 @@
     <span class="c1">#####################
 </span>
     <span class="c1"># 5. Cross validate
-</span>    <span class="n">scores</span> <span class="o">=</span> <span class="nf">cross_val_score</span><span class="p">(</span><span class="n">random_search</span><span class="p">,</span> <span class="n">X_train</span><span class="p">,</span> <span class="n">y_train</span><span class="p">,</span> <span class="n">cv</span><span class="o">=</span><span class="mi">5</span><span class="p">)</span>
+</span>
+    <span class="n">scores</span> <span class="o">=</span> <span class="nf">cross_val_score</span><span class="p">(</span><span class="n">random_search</span><span class="p">,</span> <span class="n">X_train</span><span class="p">,</span> <span class="n">y_train</span><span class="p">,</span> <span class="n">cv</span><span class="o">=</span><span class="mi">5</span><span class="p">)</span>
     <span class="nf">print</span><span class="p">(</span><span class="n">scores</span><span class="p">.</span><span class="nf">mean</span><span class="p">(),</span> <span class="sh">'</span><span class="se">\t</span><span class="sh">'</span><span class="p">,</span> <span class="n">scores</span><span class="p">.</span><span class="nf">std</span><span class="p">())</span>
     <span class="c1"># 0.3921064495878645 	 0.08086083233321788 - really happy with this
 </span>
@@ -113,10 +114,9 @@
 </span>
     <span class="c1"># 7. Predict
 </span>
-    <span class="c1"># Use the trained model to make predictions
-</span>    <span class="n">y_pred_current</span> <span class="o">=</span> <span class="n">pipeline_test</span><span class="p">.</span><span class="nf">predict</span><span class="p">(</span><span class="n">current_final</span><span class="p">)</span>
+    <span class="n">y_pred_current</span> <span class="o">=</span> <span class="n">pipeline_test</span><span class="p">.</span><span class="nf">predict</span><span class="p">(</span><span class="n">current_final</span><span class="p">)</span>
 
-    <span class="c1"># Convert predictions to a DataFrame if needed
+    <span class="c1">#convert to df
 </span>    <span class="n">predictions_df</span> <span class="o">=</span> <span class="n">pd</span><span class="p">.</span><span class="nc">DataFrame</span><span class="p">(</span><span class="n">y_pred_current</span><span class="p">,</span> <span class="n">columns</span><span class="o">=</span><span class="p">[</span><span class="sh">'</span><span class="s">Predicted_total_ordered</span><span class="sh">'</span><span class="p">])</span>
 
     <span class="c1">#match NDC and name to index
@@ -126,7 +126,7 @@
     <span class="n">predictions_df_filter</span> <span class="o">=</span> <span class="n">predictions_df</span><span class="p">[</span><span class="n">predictions_df</span><span class="p">[</span><span class="sh">'</span><span class="s">Predicted_total_ordered</span><span class="sh">'</span><span class="p">]</span><span class="o">&gt;</span><span class="mi">1</span><span class="p">]</span>
     <span class="nf">print</span><span class="p">(</span><span class="n">predictions_df_filter</span><span class="p">)</span>
 
-    <span class="c1"># Use the index of the filtered predictions to locate the corresponding rows in current_final
+    <span class="c1">#use index to match
 </span>    <span class="n">matching_rows</span> <span class="o">=</span> <span class="n">current_final</span><span class="p">.</span><span class="n">loc</span><span class="p">[</span><span class="n">predictions_df_filter</span><span class="p">.</span><span class="n">index</span><span class="p">]</span>
 
     <span class="c1">#merge name with ndc
