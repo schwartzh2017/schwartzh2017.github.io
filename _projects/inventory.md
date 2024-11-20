@@ -135,6 +135,7 @@ The below code showcases my model for determining which meds we need to order an
     #####################
 
     # 5. Cross validate
+
     scores = cross_val_score(random_search, X_train, y_train, cv=5)
     print(scores.mean(), '\t', scores.std())
     # 0.3921064495878645 	 0.08086083233321788 - really happy with this
@@ -163,10 +164,9 @@ The below code showcases my model for determining which meds we need to order an
 
     # 7. Predict
 
-    # Use the trained model to make predictions
     y_pred_current = pipeline_test.predict(current_final)
 
-    # Convert predictions to a DataFrame if needed
+    #convert to df
     predictions_df = pd.DataFrame(y_pred_current, columns=['Predicted_total_ordered'])
 
     #match NDC and name to index
@@ -176,7 +176,7 @@ The below code showcases my model for determining which meds we need to order an
     predictions_df_filter = predictions_df[predictions_df['Predicted_total_ordered']>1]
     print(predictions_df_filter)
 
-    # Use the index of the filtered predictions to locate the corresponding rows in current_final
+    #use index to match
     matching_rows = current_final.loc[predictions_df_filter.index]
 
     #merge name with ndc
