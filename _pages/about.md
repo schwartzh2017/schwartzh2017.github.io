@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ・Data Scientist | Healthcare Analyst・
+subtitle: ・Data Scientist | Biologist | Healthcare Analyst・
 
 profile:
   align: right
