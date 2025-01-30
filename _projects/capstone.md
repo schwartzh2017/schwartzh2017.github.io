@@ -5,7 +5,7 @@ description: How does access to care and other basic needs impact standard healt
 img: /assets/img/capstone_congruence.png
 redirect:
 importance: 1
-category: school
+category: Willamette University
 related_publications: false
 ---
 

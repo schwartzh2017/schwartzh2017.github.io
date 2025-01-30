@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
-display_categories: [work, school]
+display_categories: [Main Street Family Medicine, New Heights Clinic, Willamette University]
 horizontal: false
 ---
 

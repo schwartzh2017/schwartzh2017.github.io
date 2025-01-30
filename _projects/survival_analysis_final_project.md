@@ -5,7 +5,7 @@ description: Analysis of survivability of GitHub repos for MSDS Survival Analysi
 img: /assets/img/survival_analysis_final_project_km_curve.png
 redirect:
 importance: 2
-category: school
+category: Willamette University
 related_publications: false
 ---
 

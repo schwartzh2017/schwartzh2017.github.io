@@ -5,7 +5,7 @@ description: Comparing patient demographics between Main Street Family Medicine,
 img: /assets/img/nhc2.png
 redirect:
 importance: 3
-category: work
+category: New Heights Clinic
 related_publications: false
 ---
 

@@ -5,7 +5,7 @@ description: App for tracking medications, dispense history, and predicting whic
 img: assets/img/meds.jpg
 redirect:
 importance: 2
-category: work
+category: Main Street Family Medicine
 related_publications: false
 ---
 

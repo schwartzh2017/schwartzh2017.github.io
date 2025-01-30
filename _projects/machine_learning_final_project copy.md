@@ -5,7 +5,7 @@ description: Speed dating analysis for MSDS Adv. Machine Learning (DATA-505)
 img: /assets/img/ml_fp.png
 redirect:
 importance: 1
-category: school
+category: Willamette University
 related_publications: false
 ---
 
