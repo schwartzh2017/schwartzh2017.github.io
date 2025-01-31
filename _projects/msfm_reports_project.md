@@ -23,7 +23,7 @@ The title of the fifth report is "Patient Demographics and Conditions," but the 
 
 <div class="row justify-content-sm-center">
     <figure>
-        <video src="/assets/video/MSFM_Reports_App.mp4" class="img-fluid rounded z-depth-1" width="auto" height="auto" autoplay controls></video>
+        <video src="/assets/video/MSFM_Reports_App_No_Audio.mp4" class="img-fluid rounded z-depth-1" width="auto" height="auto" autoplay controls></video>
     </figure>    
 </div>
 
