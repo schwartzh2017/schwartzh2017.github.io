@@ -2,7 +2,7 @@
 layout: page
 title: GitHub Repos Survivability 
 description: Analysis of survivability of GitHub repos for MSDS Survival Analysis (DATA-596)
-img: /assets/img/survival_analysis_final_project_km_curve.png
+img: /assets/img/tech.jpg
 redirect:
 importance: 2
 category: Willamette University
@@ -33,3 +33,5 @@ My partner, [Nick Brooks](https://nickbrooks-ds.github.io/), and I worked togeth
         {% include figure.liquid loading="eager" path="assets/img/sa_fp_ex2.png" title="survival probability over time per triad" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+NOTE: Thank you to [Adobe Stock](https://stock.adobe.com/) for the stock tech image used for this project.

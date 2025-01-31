@@ -2,7 +2,7 @@
 layout: page
 title: Healthcare Access in the United States
 description: How does access to care and other basic needs impact standard health metrics? A capstone project.
-img: /assets/img/capstone_congruence.png
+img: /assets/img/healthcare.jpg
 redirect:
 importance: 1
 category: Willamette University
@@ -22,3 +22,5 @@ Frances Romero and I worked together on our capstone to investigate how access t
 Additionally, broadband internet access, food security, income, rate of Primary Care Proviers (PCPs), and exercise opportunities emerged as crucial necessities for improving health. Since reduced access to these items (particularly internet access, exercise opportunities, and available providers) are correlated with lower health metrics, this suggests a lower health literacy may also exist in these areas. Especially where internet access is low, increasing opportunities to learn about health and science through school and community programs may also provide benefits in improving the overall health of these communities.
 
 Please visit our [website](https://wu-msds-capstones.github.io/us_health_quality/#introduction) for further details. 
+
+NOTE: Thank you to [iStock by Getty Images](https://www.istockphoto.com/) for the stock healthcare image used for this project.

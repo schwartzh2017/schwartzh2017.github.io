@@ -23,10 +23,10 @@ The title of the fifth report is "Patient Demographics and Conditions," but the 
 
 <div class="row justify-content-sm-center">
     <figure>
-        <video src="assets/video/MSFM_Reports_App.mov" class="img-fluid rounded z-depth-1" width="auto" height="auto" autoplay controls></video>
+        <video src="/assets/video/MSFM_Reports_App.mp4" class="img-fluid rounded z-depth-1" width="auto" height="auto" autoplay controls></video>
     </figure>    
 </div>
 
-NOTE: Thank you to the [Canva](https://www.canva.com/) for the stock report image used for this project.
+NOTE: Thank you to [Canva](https://www.canva.com/) for the stock report image used for this project.
 
 

@@ -2,7 +2,7 @@
 layout: page
 title: Can You Predict Love?
 description: Speed dating analysis for MSDS Adv. Machine Learning (DATA-505)
-img: /assets/img/ml_fp.png
+img: /assets/img/love.jpg
 redirect:
 importance: 1
 category: Willamette University
@@ -31,6 +31,8 @@ My partners, [Christy Lawrence](https://cml-data.github.io/), Noelle Matthews, a
         {% include figure.liquid loading="eager" path="assets/img/ml_fp_3.png" title="kmeans" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+NOTE: Thank you to [Adobe Stock](https://stock.adobe.com/) for the stock image used for this project.
 
 <!-- {% raw %}
 
