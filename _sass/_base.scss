@@ -1294,3 +1294,17 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+// outline button that follows the light/dark theme color
+a.btn-theme {
+  color: var(--global-theme-color);
+  border: 1px solid var(--global-theme-color);
+  background-color: transparent;
+
+  &:hover,
+  &:focus {
+    color: var(--global-bg-color);
+    background-color: var(--global-theme-color);
+    text-decoration: none;
+  }
+}
