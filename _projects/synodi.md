@@ -20,7 +20,7 @@ related_publications: false
 **What it does**
 
 - **Trips with a look of their own** — every trip gets its own page, its own ledger, and its own theme, colors, and fonts.
-- **One-link invites** — send a single link and friends are on the trip in minutes, with no spreadsheet wrangling.
+- **Multi-currency support** — log expenses in whatever currency you paid in; each one converts to the trip's base currency at entry, so balances and settlements always stay in one clear number.
 - **Fair splits, including lodging** — split evenly, or split lodging by nights stayed so the person who left early pays only their share.
 - **Settlement, simple or detailed** — one clean answer to "who owes who," with a full breakdown behind it, settled either traditionally or with simplified (minimum-transaction) payments.
 - **Receiver-confirmed payments** — payments count once the person receiving them confirms, and everyone is notified when money moves.
